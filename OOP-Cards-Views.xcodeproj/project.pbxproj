@@ -19,6 +19,20 @@
 		44CFDEF4189C4D1200238AA4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 44CFDEDC189C4D1200238AA4 /* UIKit.framework */; };
 		44CFDEFC189C4D1200238AA4 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 44CFDEFA189C4D1200238AA4 /* InfoPlist.strings */; };
 		44CFDEFE189C4D1200238AA4 /* OOP_Cards_ViewsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 44CFDEFD189C4D1200238AA4 /* OOP_Cards_ViewsTests.m */; };
+		44F38FBF18B3A4510012314D /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 44F38FBE18B3A4510012314D /* Storyboard.storyboard */; };
+		44F38FC218B3A4C70012314D /* CardGridViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 44F38FC118B3A4C70012314D /* CardGridViewController.m */; };
+		44F38FD018B3A61E0012314D /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 44F38FC418B3A61D0012314D /* 1.jpg */; };
+		44F38FD118B3A61E0012314D /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 44F38FC518B3A61D0012314D /* 2.jpg */; };
+		44F38FD218B3A61E0012314D /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 44F38FC618B3A61D0012314D /* 3.jpg */; };
+		44F38FD318B3A61E0012314D /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 44F38FC718B3A61D0012314D /* 4.jpg */; };
+		44F38FD418B3A61E0012314D /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 44F38FC818B3A61D0012314D /* 5.jpg */; };
+		44F38FD518B3A61E0012314D /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 44F38FC918B3A61D0012314D /* 6.jpg */; };
+		44F38FD618B3A61E0012314D /* 7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 44F38FCA18B3A61E0012314D /* 7.jpg */; };
+		44F38FD718B3A61E0012314D /* 8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 44F38FCB18B3A61E0012314D /* 8.jpg */; };
+		44F38FD818B3A61E0012314D /* 9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 44F38FCC18B3A61E0012314D /* 9.jpg */; };
+		44F38FD918B3A61E0012314D /* 10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 44F38FCD18B3A61E0012314D /* 10.jpg */; };
+		44F38FDA18B3A61E0012314D /* 11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 44F38FCE18B3A61E0012314D /* 11.jpg */; };
+		44F38FDB18B3A61E0012314D /* 12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 44F38FCF18B3A61E0012314D /* 12.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +62,21 @@
 		44CFDEF9189C4D1200238AA4 /* OOP-Cards-ViewsTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "OOP-Cards-ViewsTests-Info.plist"; sourceTree = "<group>"; };
 		44CFDEFB189C4D1200238AA4 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		44CFDEFD189C4D1200238AA4 /* OOP_Cards_ViewsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OOP_Cards_ViewsTests.m; sourceTree = "<group>"; };
+		44F38FBE18B3A4510012314D /* Storyboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
+		44F38FC018B3A4C70012314D /* CardGridViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CardGridViewController.h; sourceTree = "<group>"; };
+		44F38FC118B3A4C70012314D /* CardGridViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CardGridViewController.m; sourceTree = "<group>"; };
+		44F38FC418B3A61D0012314D /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		44F38FC518B3A61D0012314D /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		44F38FC618B3A61D0012314D /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		44F38FC718B3A61D0012314D /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		44F38FC818B3A61D0012314D /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		44F38FC918B3A61D0012314D /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
+		44F38FCA18B3A61E0012314D /* 7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpg; sourceTree = "<group>"; };
+		44F38FCB18B3A61E0012314D /* 8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpg; sourceTree = "<group>"; };
+		44F38FCC18B3A61E0012314D /* 9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9.jpg; sourceTree = "<group>"; };
+		44F38FCD18B3A61E0012314D /* 10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 10.jpg; sourceTree = "<group>"; };
+		44F38FCE18B3A61E0012314D /* 11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 11.jpg; sourceTree = "<group>"; };
+		44F38FCF18B3A61E0012314D /* 12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 12.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,8 +136,12 @@
 		44CFDEDE189C4D1200238AA4 /* OOP-Cards-Views */ = {
 			isa = PBXGroup;
 			children = (
+				44F38FC318B3A6130012314D /* Images */,
+				44F38FBE18B3A4510012314D /* Storyboard.storyboard */,
 				44CFDEE7189C4D1200238AA4 /* AppDelegate.h */,
 				44CFDEE8189C4D1200238AA4 /* AppDelegate.m */,
+				44F38FC018B3A4C70012314D /* CardGridViewController.h */,
+				44F38FC118B3A4C70012314D /* CardGridViewController.m */,
 				44CFDEEA189C4D1200238AA4 /* Images.xcassets */,
 				44CFDEDF189C4D1200238AA4 /* Supporting Files */,
 			);
@@ -142,6 +175,25 @@
 				44CFDEFA189C4D1200238AA4 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		44F38FC318B3A6130012314D /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				44F38FC418B3A61D0012314D /* 1.jpg */,
+				44F38FC518B3A61D0012314D /* 2.jpg */,
+				44F38FC618B3A61D0012314D /* 3.jpg */,
+				44F38FC718B3A61D0012314D /* 4.jpg */,
+				44F38FC818B3A61D0012314D /* 5.jpg */,
+				44F38FC918B3A61D0012314D /* 6.jpg */,
+				44F38FCA18B3A61E0012314D /* 7.jpg */,
+				44F38FCB18B3A61E0012314D /* 8.jpg */,
+				44F38FCC18B3A61E0012314D /* 9.jpg */,
+				44F38FCD18B3A61E0012314D /* 10.jpg */,
+				44F38FCE18B3A61E0012314D /* 11.jpg */,
+				44F38FCF18B3A61E0012314D /* 12.jpg */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -219,8 +271,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				44F38FD218B3A61E0012314D /* 3.jpg in Resources */,
+				44F38FD418B3A61E0012314D /* 5.jpg in Resources */,
+				44F38FD818B3A61E0012314D /* 9.jpg in Resources */,
+				44F38FD918B3A61E0012314D /* 10.jpg in Resources */,
+				44F38FD318B3A61E0012314D /* 4.jpg in Resources */,
 				44CFDEE3189C4D1200238AA4 /* InfoPlist.strings in Resources */,
 				44CFDEEB189C4D1200238AA4 /* Images.xcassets in Resources */,
+				44F38FD018B3A61E0012314D /* 1.jpg in Resources */,
+				44F38FD118B3A61E0012314D /* 2.jpg in Resources */,
+				44F38FD718B3A61E0012314D /* 8.jpg in Resources */,
+				44F38FBF18B3A4510012314D /* Storyboard.storyboard in Resources */,
+				44F38FD618B3A61E0012314D /* 7.jpg in Resources */,
+				44F38FDB18B3A61E0012314D /* 12.jpg in Resources */,
+				44F38FDA18B3A61E0012314D /* 11.jpg in Resources */,
+				44F38FD518B3A61E0012314D /* 6.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -240,6 +305,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				44CFDEE9189C4D1200238AA4 /* AppDelegate.m in Sources */,
+				44F38FC218B3A4C70012314D /* CardGridViewController.m in Sources */,
 				44CFDEE5189C4D1200238AA4 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -441,6 +507,7 @@
 				44CFDF03189C4D1200238AA4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		44CFDF04189C4D1200238AA4 /* Build configuration list for PBXNativeTarget "OOP-Cards-ViewsTests" */ = {
 			isa = XCConfigurationList;
@@ -449,6 +516,7 @@
 				44CFDF06189C4D1200238AA4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
